@@ -179,13 +179,15 @@ The information of the employees can be stored and managed in a database using b
 The link for a basic implementation for binary tree is mentioned below:
 >
 https://github.com/SamarthMallapur/DAA-Repo/blob/main/BST.cpp
-
+>
+>
 The Salaries of each employee can be sorted using merge sort.
 The link for a basic implementation for merge sosrt is mentioned below:
 >
 https://github.com/SamarthMallapur/DAA-Repo/blob/main/Merge%20sort.cpp
-
-# misc:
+>
+>
+# Misc:
 All the identified business case ideas can be found here:
 >
 https://github.com/SamarthMallapur/DAA-Repo/blob/main/Business%20case%20ideas.md
