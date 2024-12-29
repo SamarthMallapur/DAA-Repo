@@ -190,3 +190,30 @@ Course Learning Reflections:
         Depth First Search (DFS): Traverse deeper into a branch until the branch ends or result is found(BRAVE TRAVERSAL).
         Breadth First Search (BFS): Traverse through all the possible child branches and then traverse through the first child until the branch ends or result is found (CAUTIOUS TRAVERSAL).
 
+==>Deliberate on sorting and searching algorithms, the technique behind each and how they connect to the real world.
+
+    sorting and searching algorithmsa are essential for day to day smooth operation of huge databases around the world.
+    SORTING ALGORITHMS:
+    
+    Bubble sort: Every element is compared and sorted.
+    Selection sort: number of swaps are lesser compared to bubble sort.
+    Insertion sort: Derives its motivation from gamblers problem, which inserts elements based on values as per required shifts.
+    Merge sort: Sorting algorithm that follows the divide and conquer rule.
+    Quick sort: Sorting algorithm that starts with selection of pivot and partitioning the array in sub arrays and then rearranging those elements.
+
+    SEARCHING ALGORITHMS:
+
+    Linear search: Searches the given array in linear form, comparing each element until match is found.
+    Binary search: Divides the array several times , compares the element and then merges back. has better time efficiency than linear search.
+
+==>Discuss the importance of graph algorithms with respect to spanning trees and shortest paths.
+
+    Graph algorithms has mainly two applications, spanning trees and shortest paths, which help in network connectivity and other parts of networking. Spanning tree algorithms like Kruskal’s, Prim’s help in optimizing a network with minimum edges and reducing the overall cost in scenarios where efficiency matters. Shortest path algorithm like Dijakstra’s, Warshall’s, Floyd’s are useful for finding an efficient route between 2 nodes. It is used in GPS system, routing etc.
+    
+==>Discuss the different studied algorithm design techniques.
+
+    The design techniques we have studied are:
+    1. Backtracking: Exploring all possible solutions and discarding the solution which does not satisfy result. It is used in N-queens problems and solving of a sudoku.
+    2. Divide and conquer: A problem is divided into sub-problems and finally merged to get the end result. The technique is followed by merge sort and quick sort algorithms.
+    3. Brute force string search: A trial and error approach is used to find final solution. Algorithms like Boyer-Moore, Knuth-Morris-Pratt etc. follow this technique.
+    4. Greedy techniques: To find the shortest path between two nodes in a weighted graph, this technique can be used. Dijakstra’s algorithm, prim’s algorithm, etc. Follow this technique.
